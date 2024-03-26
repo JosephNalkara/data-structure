@@ -1,4 +1,4 @@
-#include"LinkedList.h"
+#include"LinkedLst.h"
 
 template<class T>
 
